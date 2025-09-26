@@ -37,10 +37,10 @@ It demonstrates **OOP, File Handling, JSON integration, and interactive frontend
 ```
 LibraryManagementSystem/
 │── cpp/
-│   ├── main.cpp         # Backend code
+│   ├── Library.cpp         # Backend code
 │   ├── books.json       # Persistent book data
 │── frontend/
-│   ├── index.html       # Web interface
+│   ├── Library.html       # Web interface
 │   ├── style.css        # CSS styling
 │   ├── script.js        # JS actions
 │── screenshots/
@@ -91,7 +91,7 @@ cd ..
 python -m http.server 8000
 ```
 
-* Open browser → [http://localhost:8000/frontend/index.html](http://localhost:8000/frontend/index.html)
+* Open browser → [http://localhost:8000/frontend/index.html](http://localhost:8000/frontend/Library.html)
 * Interact with the book table live
 
 ---
