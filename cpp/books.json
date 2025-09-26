@@ -1,0 +1,22 @@
+[
+  {"id": 1, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "status": "Available"},
+  {"id": 2, "title": "To Kill a Mockingbird", "author": "Harper Lee", "status": "Available"},
+  {"id": 3, "title": "1984", "author": "George Orwell", "status": "Available"},
+  {"id": 4, "title": "Pride and Prejudice", "author": "Jane Austen", "status": "Issued"},
+  {"id": 5, "title": "Moby-Dick", "author": "Herman Melville", "status": "Issued"},
+  {"id": 6, "title": "War and Peace", "author": "Leo Tolstoy", "status": "Available"},
+  {"id": 8, "title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "status": "Issued"},
+  {"id": 9, "title": "Jane Eyre", "author": "Charlotte Bronte", "status": "Available"},
+  {"id": 11, "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "status": "Issued"},
+  {"id": 12, "title": "Brave New World", "author": "Aldous Huxley", "status": "Available"},
+  {"id": 13, "title": "The Hobbit", "author": "J.R.R. Tolkien", "status": "Issued"},
+  {"id": 14, "title": "Fahrenheit 451", "author": "Ray Bradbury", "status": "Available"},
+  {"id": 15, "title": "Wthering Heights", "author": "Emily Bronte", "status": "Available"},
+  {"id": 16, "title": "Anna Karenina", "author": "Leo Tolstoy", "status": "Issued"},
+  {"id": 17, "title": "The Divine Comedy", "author": "Dante Alighieri", "status": "Available"},
+  {"id": 18, "title": "Frankenstein", "author": "Mary Shelley", "status": "Issued"},
+  {"id": 19, "title": "Dracula", "author": "Bram Stoker", "status": "Available"},
+  {"id": 20, "title": "Les Miserables", "author": "Victor Hugo", "status": "Available"},
+  {"id": 21, "title": "Don Quixote", "author": "Miguel de Cervantes", "status": "Available"},
+  {"id": 22, "title": "The Iliad", "author": "Homer", "status": "Available"}
+]

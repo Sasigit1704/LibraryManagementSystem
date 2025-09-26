@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Library Management System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>📚 Library Management System</h1>
+<p>All actions handled via C++ backend. Table updates automatically.</p>
+
+<div>
+  <input type="text" id="searchInput" placeholder="Search by Title or Author" onkeyup="renderTable()">
+</div>
+
+<table id="booksTable">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Status</th>
+  </tr>
+</table>
+
+<p class="note">Green = Available, Red = Issued. Use search to find books.</p>
+
+<script src="script.js"></script>
+</body>
+</html>
