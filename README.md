@@ -44,8 +44,12 @@ LibraryManagementSystem/
 │   ├── style.css        # CSS styling
 │   ├── script.js        # JS actions
 │── screenshots/
-│   ├── frontend.png
-│   ├── backend.png
+│   ├── deleted.png
+│   ├── issued,returned.png
+│   ├── listOfBooks.png
+│   ├── remainingList.png
+│   ├── search.png
+│   ├── searchedList.png
 │── README.md            # This documentation
 ```
 
@@ -57,13 +61,13 @@ LibraryManagementSystem/
 
 *Display of all books with search and actions*
 
-![Frontend Screenshot](screenshots/frontend.png)
+![Frontend Screenshot](screenshots/remainingList.png)
 
 ### 🔹 Backend (C++ Console)
 
 *Console for adding, searching, issuing, returning, and deleting books*
 
-![Backend Screenshot](screenshots/backend.png)
+![Backend Screenshot](screenshots/search.png)
 
 ---
 
@@ -106,5 +110,5 @@ python -m http.server 8000
 **Sasi Kaladhar**
 🎓 B.Tech | Mechanical Engineering @ IIT Patna
 📧 [pillisasikaladhar.palasa@gmail.com](mailto:pillisasikaladhar.palasa@gmail.com)
-🔗 [GitHub](https://github.com/yourusername)
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)
+🔗 [GitHub](https://github.com/Sasigit1704)
+🔗 [LinkedIn](https://linkedin.com/in/pillisasikaladhar170404)
