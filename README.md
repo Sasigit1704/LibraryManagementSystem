@@ -91,7 +91,7 @@ cd ..
 python -m http.server 8000
 ```
 
-* Open browser → [http://localhost:8000/frontend/index.html](http://localhost:8000/frontend/Library.html)
+* Open browser → [http://localhost:8000/frontend/index.html](/frontend/Library.html)
 * Interact with the book table live
 
 ---
