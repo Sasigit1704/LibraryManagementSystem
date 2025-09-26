@@ -1,5 +1,10 @@
 # 📚 Library Management System – C++ + Web UI
 
+![C++](https://img.shields.io/badge/C++-blue)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 A **hybrid console + web project** that manages a library using **C++ backend** and a **modern web interface**.
 It demonstrates **OOP, File Handling, JSON integration, and interactive frontend design**.
 
